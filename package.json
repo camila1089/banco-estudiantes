@@ -9,9 +9,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camila1089/banco-estudiantes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/camila1089/banco-estudiantes/issues"
+  },
+  "homepage": "https://github.com/camila1089/banco-estudiantes#readme",
+  "description": ""
 }
